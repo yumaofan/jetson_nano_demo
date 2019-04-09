@@ -1,7 +1,8 @@
 # jetson_nano_demo
+Some great implement of deep learning algorithm in Nvidia jetson nano platform.
 ## Tasks
-- [ ] Real-time face detection demo
-- [ ] Real-time face recognition demo
-- [ ] Real-time object detection demo
-- [ ] Real-time object tracking demo
+- [ ] Real-time face detection 
+- [ ] Real-time face recognition 
+- [ ] Real-time object detection 
+- [ ] Real-time object tracking 
 - [ ] Robot basic operation
