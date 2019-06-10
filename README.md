@@ -18,7 +18,7 @@ If you have some errors when install packages using pip3,
 please instead of using "sudo apt-get install python3-package_name" [[refer]](https://devtalk.nvidia.com/default/topic/1050614/jetson-nano/cannot-import-scipy-on-jetson-nano/)
 
 ## Face Recognition
-1. Copy yourself face images into face_db folder, insure only one person in one image
+1. Copy yourself face images into face_db folder, ensure only one person in one image, and named the image using label name, eg: Aaron.jpg.
 2. python3 face_recognition/canera_demo.py
 
 ## References
