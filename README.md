@@ -5,6 +5,8 @@ Some great implement of deep learning algorithm in Nvidia jetson nano platform.
 - [X] Real-time face recognition
 - [ ] Real-time object detection
 - [ ] Real-time object tracking
+- [ ] Real-time multi-person keypoint detection
+- [ ] Real-time gesture estimation
 - [ ] Robot basic operation
 
 ## Dependencies
