@@ -13,8 +13,9 @@ Some great implement of deep learning algorithm in Nvidia jetson nano platform.
 - Tensorflow 1.13 [[install]](https://devtalk.nvidia.com/default/topic/1048776/official-tensorflow-for-jetson-nano-/)
 - Python 3.x
 - Numpy
-- sklearn
-- scipy
+- Sklearn
+- Scipy
+- OpenCV
 
 If you have some errors when install packages using pip3,
 please instead of using "sudo apt-get install python3-package_name" [[refer]](https://devtalk.nvidia.com/default/topic/1050614/jetson-nano/cannot-import-scipy-on-jetson-nano/)
