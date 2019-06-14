@@ -1,5 +1,5 @@
 # jetson_nano_demo
-Some great implement of deep learning algorithm in Nvidia jetson nano platform.  
+Some great implement of deep learning algorithms in Nvidia jetson nano platform.  
 By the way, this repository not only can be running on the Jetson platform but also can be running on all platforms that installed the tensorflow.
 ## Tasks
 - [X] Real-time face detection
