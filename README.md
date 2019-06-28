@@ -17,6 +17,7 @@ By the way, this repository not only can be running on the Jetson platform but a
 - Sklearn
 - Scipy
 - OpenCV
+- skimage (sudo apt-get install python3-skimage)
 
 If you have some errors when install packages using pip3,
 please instead of using "sudo apt-get install python3-package_name" [[refer]](https://devtalk.nvidia.com/default/topic/1050614/jetson-nano/cannot-import-scipy-on-jetson-nano/)
